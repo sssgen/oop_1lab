@@ -1,0 +1,15 @@
+D:\!university\NAU\OOP\2 course\1\1lab\bin\Debug\net8.0\1lab.exe
+D:\asfasf\1lab\bin\Debug\net8.0\1lab.exe
+D:\asfasf\1lab\bin\Debug\net8.0\1lab.deps.json
+D:\asfasf\1lab\bin\Debug\net8.0\1lab.runtimeconfig.json
+D:\asfasf\1lab\bin\Debug\net8.0\1lab.dll
+D:\asfasf\1lab\bin\Debug\net8.0\1lab.pdb
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.AssemblyInfoInputs.cache
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.AssemblyInfo.cs
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.csproj.CoreCompileInputs.cache
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.dll
+D:\asfasf\1lab\obj\Debug\net8.0\refint\1lab.dll
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.pdb
+D:\asfasf\1lab\obj\Debug\net8.0\1lab.genruntimeconfig.cache
+D:\asfasf\1lab\obj\Debug\net8.0\ref\1lab.dll
